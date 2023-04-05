@@ -1,0 +1,61 @@
+$ git log
+commit eae0d25b1393118d3dd7565d881aa3e18b930445 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 12:29:09 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 3067b62727e5a40a2c3de88c5c268ede149ca043
+Merge: 9186352 f1b2d3f
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 16:04:59 2023 +0200
+
+    Merge branch 'bug2'
+
+commit f1b2d3f0351aafdcf1a1add9cea9b2292738e0e0 (origin/bug2, bug2)
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 12:25:37 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 91863528bc67a44f8a39591da7dc14255245d36e (origin/bug1, bug1)
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 12:09:02 2023 +0200
+:...skipping...
+commit eae0d25b1393118d3dd7565d881aa3e18b930445 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 12:29:09 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 3067b62727e5a40a2c3de88c5c268ede149ca043
+Merge: 9186352 f1b2d3f
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 16:04:59 2023 +0200
+
+    Merge branch 'bug2'
+
+commit f1b2d3f0351aafdcf1a1add9cea9b2292738e0e0 (origin/bug2, bug2)
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 12:25:37 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 91863528bc67a44f8a39591da7dc14255245d36e (origin/bug1, bug1)
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 12:09:02 2023 +0200
+
+    Fix wrong loop for reading
+
+commit d2a10cf9df26bae49c5b9229c92c3ad246d8bbe3
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 11:30:07 2023 +0200
+
+    Add java class
+
+commit 72e15d89b466bd6d4d65bcb8bac42315f49b3dc2
+Author: Leona <volkanoska.l@gmail.com>
+Date:   Wed Apr 5 11:25:46 2023 +0200
+
+    Initial commit
+
